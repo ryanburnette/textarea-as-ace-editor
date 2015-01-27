@@ -1,0 +1,29 @@
+{
+  "name": "textarea-as-ace-editor",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ryanburnette/textarea-as-ace-editor",
+  "authors": [
+    "Ryan Burnette <ryan.burnette@gmail.com>"
+  ],
+  "description": "Change textareas in instances of ACE Editor.",
+  "main": "dist/textarea-as-ace-editor.min.js",
+  "keywords": [
+    "textarea",
+    "ace",
+    "editor",
+    "jquery"
+  ],
+  "license": "Apache2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "demo"
+  ],
+  "dependencies": {
+    "jquery": "~1.11.2",
+    "ace-editor": "https://github.com/ajaxorg/ace.git"
+  }
+}
